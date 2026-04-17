@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=00ff00&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=TharinduPerera6495&label=VISITORS&color=00ff00&style=flat" />
+  <img src="https://img.shields.io/github/followers/TharinduPerera6495?label=FOLLOWERS&style=social" />
 </p>
 
 ---
@@ -38,8 +38,8 @@ Building scalable systems, APIs, and optimized backend logic
 ### 📊 System Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TharinduPerera6495&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduPerera6495&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
