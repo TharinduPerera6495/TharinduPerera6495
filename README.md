@@ -1,79 +1,66 @@
-<h1 align="center">👨‍💻 Tharindu Perera</h1>
+# ⚡ Tharindu Perera
+### **Full-Stack Developer | Scalable Systems & API Architect**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+APIs;System+Builder;Performance+Focused" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TharinduPerera6495&label=VISITORS&color=00ff00&style=flat" />
-  <img src="https://img.shields.io/github/followers/TharinduPerera6495?label=FOLLOWERS&style=social" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Mindset-Clean.%20Fast.%20Reliable.-0078D4?style=for-the-badge" alt="Mindset">
+  <img src="https://img.shields.io/badge/Status-Always%20Building-success?style=for-the-badge" alt="Status">
 </p>
 
 ---
 
-```bash
-> whoami
-Tharindu Perera
+## 👨‍💻 About Me
+I am a Full-Stack Developer focused on building high-performance, scalable web and mobile architectures. I specialize in crafting robust backend logic, optimizing API performance, and ensuring seamless deployment workflows.
 
-> role
-Full-Stack Developer
-
-> focus
-Building scalable systems, APIs, and optimized backend logic
-
-> mindset
-"Clean. Fast. Reliable."
-```
+* 🔭 **Current Focus:** Microservices and real-time data synchronization.
+* ⚡ **Philosophy:** Code should be as efficient as it is maintainable.
+* 🛠️ **Deployment:** Expert in Nginx, PM2, and automated CI/CD pipelines.
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | React Native, Next.js, React, Tailwind CSS |
+| **Backend** | Node.js, Laravel (PHP), Go, Express |
+| **Database** | PostgreSQL, MySQL, Redis, MongoDB |
+| **DevOps** | Docker, Nginx, PM2, Cleavr, AWS |
+
+---
+
+## 📊 System Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,js,jquery,mysql,firebase,git,bootstrap&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 📊 System Stats
+## 🧠 Runtime Quote
+> *"Software is a gas; it expands to fill its container."* — **Nathan Myhrvold**
 
+---
+
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TharinduPerera6495&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduPerera6495&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-### 🧠 Runtime Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=dark" />
-</p>
-
----
-
-### 🌐 Network
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00" />
+## 🌐 Network
+<p align="left">
+  <a href="https://linkedin.com/in/LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=00FF00" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TharinduPerera6495/TharinduPerera6495/output/snake.svg" />
+  <i>"Simplicity is the soul of efficiency."</i>
 </p>
-
----
-
-```bash
-> status
-Always building...
-```
