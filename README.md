@@ -1,75 +1,137 @@
-<h1 align="center">👨‍💻 Tharindu Perera</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Laravel;React+Native+%7C+TypeScript;API+%26+Payment+Integrations" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TharinduPerera6495&label=VISITORS&color=00ff00&style=flat" />
-  <img src="https://img.shields.io/github/followers/TharinduPerera6495?label=FOLLOWERS&style=social" />
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00b09b&height=200&section=header&text=Tharindu%20Perera&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%2F%20Next.js%20%2F%20Laravel&descAlignY=55&descSize=18" />
 
-```bash
-> whoami
-Tharindu Perera
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00E5A0&center=true&vCenter=true&width=600&lines=8%2B+Years+Building+Web+%26+Mobile+Apps;React+%2F+Next.js+%2F+React+Native+(TypeScript);Laravel+%2F+Node.js+%2F+GraphQL+%2F+REST;Payments%2C+Real-Time+Systems%2C+Cloud+Deploys" />
 
-> role
-Full-Stack Developer (8+ years)
+<br/>
 
-> focus
-Scalable web & mobile apps across React/Next.js and Laravel ecosystems
+<a href="https://www.linkedin.com/in/tharindu-perera-4a953a152/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:tharinduperera6495@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-00b09b?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=TharinduPerera6495&label=Profile+Views&color=00b09b&style=for-the-badge" />
 
-> mindset
-"Clean. Fast. Reliable."
-```
+</div>
 
----
+<br/>
 
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,laravel,php,nodejs,graphql,mysql,mongodb,firebase,tailwind,git&theme=dark" />
-</p>
+## 👋 About Me
 
----
+Full-Stack Developer with **8+ years** of experience architecting scalable web and mobile applications across the **React/Next.js** and **Laravel** ecosystems. I specialize in cross-platform apps with **React Native**, strict **TypeScript** standards, and owning products end-to-end — from architecture and real-time backend integrations to secure cloud deployment.
 
-### 📊 System Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TharinduPerera6495&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduPerera6495&theme=chartreuse-dark&hide_border=true" />
-</p>
+- 🔭 Currently building full-stack platforms at **Enrich Arcane (Pvt) Ltd.**
+- 🌍 Delivered outsourced engagements for international clients (UK healthcare, e-commerce)
+- 💳 Deep experience integrating payment systems — Stripe, PayPal, PayHere, Adyen, Apple IAP
+- ⚡ Interested in real-time systems, API architecture, and AI-assisted development workflows
 
----
+<br/>
 
-### 🧠 Runtime Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=dark" />
-</p>
+## 🧰 Tech Stack
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 🌐 Network
-<p align="center">
-  <a href="https://www.linkedin.com/in/tharindu-perera-4a953a152/">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00" />
-  </a>
-  <!-- Add your portfolio URL below, or remove this badge if you don't have one yet -->
-  <!--
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=00FF00" />
-  </a>
-  -->
-</p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,sass" />
 
----
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,graphql,python" />
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TharinduPerera6495/TharinduPerera6495/output/snake.svg" />
-</p>
+</td>
+<td valign="top" width="50%">
 
----
+**Data & Real-Time**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
-```bash
-> status
-Always building...
-```
+**Cloud & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=nginx,git,figma,ps" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏦 Microfinance & Accounting Platform**
+<br/>
+Large-scale financial system for direct/hire-purchase sales, loans, pawning & stock management, with a QuickBooks-style accounting module and a mobile app for field cash collection.
+<br/>
+`Laravel` `React Native` `jQuery`
+
+</td>
+<td width="50%" valign="top">
+
+**👗 Garment Factory Order & 3D QA System**
+<br/>
+End-to-end manufacturing workflow platform with a custom Python pipeline mapping 2D Illustrator files onto CLO3D models for real-time 3D garment visualization.
+<br/>
+`Laravel` `Python` `CLO3D` `GraphQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌍 Foreign Job Recruitment Portal**
+<br/>
+Dual-sided marketplace connecting international employers and job seekers, with secure payments via PayHere (web/Android) and Apple IAP (iOS).
+<br/>
+`Laravel` `Inertia.js` `React Native`
+
+</td>
+<td width="50%" valign="top">
+
+**🐾 Veterinary Hospital Management Platform**
+<br/>
+UK-based healthcare platform for pet registrations, appointment scheduling & online retail, synced with legacy hospital systems and Adyen payments.
+<br/>
+`Next.js` `MongoDB` `Adyen`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TharinduPerera6495&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduPerera6495&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduPerera6495&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/TharinduPerera6495/TharinduPerera6495/output/snake.svg" />
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Clean. Fast. Reliable."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:0f2027&height=100&section=footer" />
+
+</div>
