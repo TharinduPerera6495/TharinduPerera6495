@@ -77,6 +77,17 @@ Full-Stack Developer with **8+ years** of experience architecting scalable web a
 
 <br/>
 
+## 🎮 Downtime
+
+<div align="center">
+<img src="https://img.shields.io/badge/Prime%20Video-00A8E1?style=for-the-badge&logo=primevideo&logoColor=white" />
+<img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</div>
+
+<br/>
+
 ## 🐍 Contribution Graph
 
 <div align="center">
