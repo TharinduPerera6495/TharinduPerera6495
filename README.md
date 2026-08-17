@@ -69,7 +69,7 @@ Full-Stack Developer with **8+ years** of experience architecting scalable web a
 
 **Tools & IDE**
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps,blender" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps,ai,blender" />
 
 </td>
 </tr>
