@@ -25,7 +25,8 @@ Full-Stack Developer with **8+ years** of experience architecting scalable web a
 - 🔭 Currently building full-stack platforms at **Enrich Arcane (Pvt) Ltd.**
 - 🌍 Delivered outsourced engagements for international clients (UK healthcare, e-commerce)
 - 💳 Deep experience integrating payment systems — Stripe, PayPal, PayHere, Adyen, Apple IAP
-- ⚡ Interested in real-time systems, API architecture, and AI-assisted development workflows
+- 🧠 Interested in real-time systems, API architecture, and AI-assisted development workflows
+- 🛠️ Preferred IDE: **VS Code**
 
 <br/>
 
@@ -37,86 +38,42 @@ Full-Stack Developer with **8+ years** of experience architecting scalable web a
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,sass" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,html,css,sass,jquery" />
 
-**Backend**
+**Backend & Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,graphql,python" />
 
 </td>
 <td valign="top" width="50%">
 
-**Data & Real-Time**
+**Databases & Real-Time**
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
-**Cloud & Tools**
+**CMS & E-Commerce**
 <br/>
-<img src="https://skillicons.dev/icons?i=nginx,git,figma,ps" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏦 Microfinance & Accounting Platform**
-<br/>
-Large-scale financial system for direct/hire-purchase sales, loans, pawning & stock management, with a QuickBooks-style accounting module and a mobile app for field cash collection.
-<br/>
-`Laravel` `React Native` `jQuery`
-
-</td>
-<td width="50%" valign="top">
-
-**👗 Garment Factory Order & 3D QA System**
-<br/>
-End-to-end manufacturing workflow platform with a custom Python pipeline mapping 2D Illustrator files onto CLO3D models for real-time 3D garment visualization.
-<br/>
-`Laravel` `Python` `CLO3D` `GraphQL`
+<img src="https://skillicons.dev/icons?i=wordpress,shopify,woo" />
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**🌍 Foreign Job Recruitment Portal**
+**Cloud, DevOps & Servers**
 <br/>
-Dual-sided marketplace connecting international employers and job seekers, with secure payments via PayHere (web/Android) and Apple IAP (iOS).
-<br/>
-`Laravel` `Inertia.js` `React Native`
+<img src="https://skillicons.dev/icons?i=nginx,linux,docker" />
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**🐾 Veterinary Hospital Management Platform**
+**Tools & IDE**
 <br/>
-UK-based healthcare platform for pet registrations, appointment scheduling & online retail, synced with legacy hospital systems and Adyen payments.
-<br/>
-`Next.js` `MongoDB` `Adyen`
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps,blender" />
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TharinduPerera6495&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduPerera6495&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduPerera6495&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
 <br/>
 
