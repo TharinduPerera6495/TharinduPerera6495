@@ -80,7 +80,7 @@ Full-Stack Developer with **8+ years** of experience architecting scalable web a
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-b7w8bcu2e-tharindu4.vercel.app/api?username=TharinduPerera6495&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-liard-six-60.vercel.app/api?username=TharinduPerera6495&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduPerera6495&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
