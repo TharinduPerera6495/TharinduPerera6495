@@ -63,9 +63,6 @@ Full-Stack Developer with **8+ years** of experience architecting scalable web a
 **Cloud, DevOps & Servers**
 <br/>
 <img src="https://skillicons.dev/icons?i=nginx,linux" />
-<br/>
-<img src="https://img.shields.io/badge/Contabo-1A2B49?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Namecheap-DE3A2A?style=flat-square&logoColor=white" />
 
 </td>
 <td valign="top" width="50%">
