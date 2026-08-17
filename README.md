@@ -42,7 +42,7 @@ Full-Stack Developer with **8+ years** of experience architecting scalable web a
 
 **Backend & Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,graphql,python" />
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,graphql,rest,python" />
 
 </td>
 <td valign="top" width="50%">
